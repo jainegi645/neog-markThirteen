@@ -8,9 +8,7 @@ a js app to check is selected Birthday is a Palildrom or not.
 
 step 1- Select your birthdate from date picker
 
-step 2-Enter your lucky number
-
-step 3-click on check button 
+step 2-click on check button 
 
 YOUR END RESULT WILL BE SHOWN BELOW BOX
 
